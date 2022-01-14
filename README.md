@@ -1,6 +1,6 @@
-<h1>  Form Input Show Password Strength 🔐 </h1>
+<h1>  GSAP-Accordion-Animation </h1>
 
-😋 Minimal form input show password strength.
+😋 Minimal GSAP Accordion Animation.
 
 ## Design
 
